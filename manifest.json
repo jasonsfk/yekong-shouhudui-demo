@@ -1,0 +1,35 @@
+{
+    "name": "夜空守护队",
+    "short_name": "夜空守护队",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0E0F2B",
+    "theme_color": "#0E0F2B",
+    "description": "和小蜻蜓蜓蜓一起，挥拍把嗡嗡怪变成星星！",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
